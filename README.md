@@ -1,10 +1,37 @@
+# Animating React Spring
+
+- [x] 1. Animations
+- [x] 2. Getting Started
+- [x] 3. A Basic Spring
+- [x] 4. Toggling A Spring
+- [x] 5. Animating Properties
+- [ ] 6. Interpolation Basics
+- [ ] 7. Example 1: Animated Nav
+- [ ] 8. Example 2: Cart Animation
+- [ ] 9. Emulating Keyframes
+- [ ] 10. Transition With Mounting and Unmounting
+- [ ] 11. Transition With Multiple Components
+- [ ] 12. Example 3: Transition With React Router
+- [ ] 13. Example 4: Modal Transition
+- [ ] 14. Configuration options
+- [ ] 15. Animating Height Auto
+- [ ] 16. Example 5: Animation On Scroll With Waypoint
+- [ ] 17. Set Function & Gestures
+- [ ] 18. Gestures With Events
+- [ ] 19. useSprings
+- [ ] 20. useTrail
+- [ ] 21. useChain
+- [ ] 22. Where To Go From Here
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
