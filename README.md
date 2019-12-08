@@ -5,9 +5,9 @@
 - [x] 3. A Basic Spring
 - [x] 4. Toggling A Spring
 - [x] 5. Animating Properties
-- [ ] 6. Interpolation Basics
-- [ ] 7. Example 1: Animated Nav
-- [ ] 8. Example 2: Cart Animation
+- [x] 6. Interpolation Basics
+- [x] 7. Example 1: Animated Nav
+- [x] 8. Example 2: Cart Animation
 - [ ] 9. Emulating Keyframes
 - [ ] 10. Transition With Mounting and Unmounting
 - [ ] 11. Transition With Multiple Components
