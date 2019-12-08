@@ -8,9 +8,9 @@
 - [x] 6. Interpolation Basics
 - [x] 7. Example 1: Animated Nav
 - [x] 8. Example 2: Cart Animation
-- [ ] 9. Emulating Keyframes
-- [ ] 10. Transition With Mounting and Unmounting
-- [ ] 11. Transition With Multiple Components
+- [x] 9. Emulating Keyframes
+- [x] 10. Transition With Mounting and Unmounting
+- [x] 11. Transition With Multiple Components
 - [ ] 12. Example 3: Transition With React Router
 - [ ] 13. Example 4: Modal Transition
 - [ ] 14. Configuration options
