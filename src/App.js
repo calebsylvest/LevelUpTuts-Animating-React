@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useSpring, animated } from 'react-spring';
-import Routes from './Routes';
 import Nav from './Nav';
 import Checkout from './Checkout';
+import Modal from './Modal';
 import logo from './logo.svg';
 import './App.css';
 
@@ -21,19 +21,6 @@ const App = () => {
     opacity: 1
   });
 
-  // FULL EXPLICIT
-  // const fade = useSpring({
-  //   from: {
-  //     opacity: 0
-  //   },
-  //   to: {
-  //     opacity: 1
-  //   }
-  // });
-
-  // SHORT ONE LINER
-  // const fade = useSpring({ from: opacity: 0 }, opacity: 1 });
-
   return (
     <animated.div className="App" style={fade}>
       <header className="App-header">
@@ -41,12 +28,10 @@ const App = () => {
         <button onClick={() => setNavOpen(!isNavOpen)} className="menu-button">
             Menu
           </button>
-        {/* <Nav style={navAnimation} /> */}
       </header>
 
       <main>
-        <Routes />
-        <Checkout isOpen={isNavOpen} />
+        <Modal />
       </main>
     </animated.div>
   );
