@@ -27,6 +27,7 @@ const ModalWrapper = () => {
         ({ item, key, props: animation }) =>
           item && (
             <Modal
+              key={key}
               pointerEvents={pointerEvents}
               animation={animation}
               closeModal={() => toggle(false)} />
