@@ -15,7 +15,7 @@
 - [x] 13. Example 4: Modal Transition
 - [x] 14. Configuration options
 - [x] 15. Animating Height Auto
-- [ ] 16. Example 5: Animation On Scroll With Waypoint
+- [x] 16. Example 5: Animation On Scroll With Waypoint
 - [ ] 17. Set Function & Gestures
 - [ ] 18. Gestures With Events
 - [ ] 19. useSprings
