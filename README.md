@@ -14,7 +14,7 @@
 - [x] 12. Example 3: Transition With React Router
 - [x] 13. Example 4: Modal Transition
 - [x] 14. Configuration options
-- [ ] 15. Animating Height Auto
+- [x] 15. Animating Height Auto
 - [ ] 16. Example 5: Animation On Scroll With Waypoint
 - [ ] 17. Set Function & Gestures
 - [ ] 18. Gestures With Events
