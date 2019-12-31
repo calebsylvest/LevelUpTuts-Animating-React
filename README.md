@@ -20,8 +20,8 @@
 - [x] 18. Gestures With Events
 - [x] 19. useSprings
 - [x] 20. useTrail
-- [ ] 21. useChain
-- [ ] 22. Where To Go From Here
+- [x] 21. useChain
+- [x] 22. Where To Go From Here
 
 
 
