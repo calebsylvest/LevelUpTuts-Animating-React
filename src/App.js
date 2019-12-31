@@ -5,6 +5,7 @@ import Checkout from './Checkout';
 import Modal from './Modal';
 import Accordion from './Accordion';
 import Waypoints from './Waypoints';
+import Gesture from './Gesture';
 import logo from './logo.svg';
 import './App.css';
 
@@ -40,6 +41,7 @@ const App = () => {
       <main>
         <Modal />
         <Accordion />
+        <Gesture />
         <Waypoints />
       </main>
 

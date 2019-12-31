@@ -16,8 +16,8 @@
 - [x] 14. Configuration options
 - [x] 15. Animating Height Auto
 - [x] 16. Example 5: Animation On Scroll With Waypoint
-- [ ] 17. Set Function & Gestures
-- [ ] 18. Gestures With Events
+- [x] 17. Set Function & Gestures
+- [x] 18. Gestures With Events
 - [ ] 19. useSprings
 - [ ] 20. useTrail
 - [ ] 21. useChain
