@@ -18,7 +18,7 @@
 - [x] 16. Example 5: Animation On Scroll With Waypoint
 - [x] 17. Set Function & Gestures
 - [x] 18. Gestures With Events
-- [ ] 19. useSprings
+- [x] 19. useSprings
 - [ ] 20. useTrail
 - [ ] 21. useChain
 - [ ] 22. Where To Go From Here
