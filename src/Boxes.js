@@ -1,7 +1,7 @@
 import React from 'react'
 import { animated, useSprings } from 'react-spring'
 
-const items = [0, 1, 2, 3, 4];
+const items = [0.5, 0.1, 0.9, 1, 0.8];
 
 const Boxes = () => {
   const springs = useSprings(items.length, items.map(item => ({
@@ -9,7 +9,7 @@ const Boxes = () => {
       opacity: 0
     },
     to: {
-      opacity: 1
+      opacity: item
     }
   })) );
 

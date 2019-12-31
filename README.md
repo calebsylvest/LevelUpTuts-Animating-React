@@ -19,7 +19,7 @@
 - [x] 17. Set Function & Gestures
 - [x] 18. Gestures With Events
 - [x] 19. useSprings
-- [ ] 20. useTrail
+- [x] 20. useTrail
 - [ ] 21. useChain
 - [ ] 22. Where To Go From Here
 

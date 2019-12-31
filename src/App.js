@@ -7,6 +7,7 @@ import Accordion from './Accordion';
 import Waypoints from './Waypoints';
 import Gesture from './Gesture';
 import Boxes from './Boxes';
+import Trail from './Trail';
 import logo from './logo.svg';
 import './App.css';
 
@@ -44,6 +45,8 @@ const App = () => {
         <Modal />
         <hr style={{margin: '3rem 0'}} />
         <Accordion />
+        <hr style={{margin: '3rem 0'}} />
+        <Trail />
         <hr style={{margin: '3rem 0'}} />
         <Gesture />
         <hr style={{margin: '3rem 0'}} />
